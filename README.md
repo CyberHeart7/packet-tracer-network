@@ -19,7 +19,7 @@ This project documents my experience designing and configuring a network using *
 
 ## 📝 Blog Documentation
 This project is part of my broader **Cybersecurity Journey**. Check out my main hub:  
-👉 [Cybersecurity Hub Repository](https://github.com/YourUsername/cybersecurity-hub) *(Replace with actual link when available)*
+👉 [[Cybersecurity Hub Repository](https://github.com/YourUsername/cybersecurity-hub)](https://github.com/CyberHeart7/cybersecurity-journey) 
 
 ## 🚀 Next Steps
 - Expand the network with more devices and security configurations.
